@@ -1,0 +1,3 @@
+[submodule "CarAdminServer"]
+	path = CarAdminServer
+	url = https://github.com/mapleLeafOfficial/CarAdminServer.git
